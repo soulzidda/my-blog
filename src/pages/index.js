@@ -18,7 +18,7 @@ export default ({ data }) => {
   console.log(data)
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Soulzid's Ramblings" />
       <div>
         <h1> Entries</h1>
         <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
