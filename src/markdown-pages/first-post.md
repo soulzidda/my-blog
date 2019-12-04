@@ -1,9 +1,12 @@
 ---
 title: "My First Post"
 date: "2019-12-04"
+description: "this is my first post"
 ---
 
 ### Thought of the day : “Courage doesn't always roar. Sometimes courage is the little voice at the end of the day that says I'll try again tomorrow.” ― Mary Anne Radmacher.
+
+Welcome, Välkommen, and they are the only two languages i speak so il stop there xD
 
 
 >I suppose i should say welcome to my blog, which i made partly as a fun small project
